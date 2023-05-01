@@ -5,6 +5,9 @@ body {
   text-align: center;
   font-family: 'Playfair Display', serif;
 }
+a { text-decoration: none
+  
+}
 
 .btn{
   display: block;
